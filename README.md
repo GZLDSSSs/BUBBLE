@@ -1,6 +1,7 @@
 # BUBBLE
 
-https://mimicproject.com/code/8d431e37-b2c8-dc27-dbb0-ecb31c60b3cc
+youtube：https://youtu.be/5IDKksIQWQw
+mimic：https://mimicproject.com/code/8d431e37-b2c8-dc27-dbb0-ecb31c60b3cc
 
 The name of this assignment is bubbles because the whole picture is made up of spheres which are lots of colorful bubble. I chose this theme because I was reminded of my childhood. I used to blow bubbles when I was a child and I loved watching them swirl in the sunlight even more. I believe that bubbles represent happiness, joy, freedom and vitality, so these bubbles represent my happy and energetic days, and seeing them reminds me of these happy times.
 
