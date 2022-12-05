@@ -1,5 +1,7 @@
 # BUBBLE
 
+https://mimicproject.com/code/8d431e37-b2c8-dc27-dbb0-ecb31c60b3cc
+
 The name of this assignment is bubbles because the whole picture is made up of spheres which are lots of colorful bubble. I chose this theme because I was reminded of my childhood. I used to blow bubbles when I was a child and I loved watching them swirl in the sunlight even more. I believe that bubbles represent happiness, joy, freedom and vitality, so these bubbles represent my happy and energetic days, and seeing them reminds me of these happy times.
 
 The colorful bubbles, spinning and emitting colors, made me feel like I was a child again. At the beginning I wanted to import some obj models from blender, such as succulents, jellyfish, rainbow ponies, games, gouache brushes, old buildings and other models that represented my life, but after many attempts and an afternoon of failed attempts, I didn't succeed in importing any of them, so I had to change my mind.
